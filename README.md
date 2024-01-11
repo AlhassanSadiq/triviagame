@@ -1,7 +1,7 @@
 # triviagame
 # Trivia Quiz Game
 
-A simple and fun Trivia Quiz Game built with Python by Alhassan Abubakar Sadiq. Fetches trivia questions from an API and allows users to play and test their knowledge. 🎉
+A simple and fun Trivia Quiz Game built with Python by Alhassan Abubakar Sadiq. Fetches trivia questions from an API and allows users to play and test their knowledge. 
 
 ## Table of Contents
 
